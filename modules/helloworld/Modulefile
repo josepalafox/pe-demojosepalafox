@@ -1,0 +1,9 @@
+name 'josepalafox-helloworld'
+version '0.0.1'
+
+author 'josepalafox'
+license 'apache 2.0'
+project_page ''
+source ''
+summary ''
+description 'hello world module'
